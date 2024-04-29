@@ -1,5 +1,5 @@
 export const tokenContractAddress =
-  "Ox33Ddf4b5E19b7Cbe69410CFaA2B69aE1F9eBCAD8"; // token
+  "0x33Ddf4b5E19b7Cbe69410CFaA2B69aE1F9eBcAD8"; // token
 
   
 export const royalContractAddress =

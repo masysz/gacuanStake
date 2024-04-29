@@ -8,7 +8,7 @@ const activeChain = "binance";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider
-      clientId="38b029038f909395b78dc39baed21a1c"
+      clientId="6a134ea307108b44b38805d702c562c3"
       activeChain={activeChain}
     >
       <Component {...pageProps} />

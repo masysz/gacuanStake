@@ -1,6 +1,20 @@
-export const editionDropContractAddress =
-  "0x067F0F64A827c0ce8f160f6465f127EFd12BB074";
 export const tokenContractAddress =
-  "0xd13c15d4d562376f117601c3b11a6dfd5620508d";
-export const stakingContractAddress =
-  "0x73b5F4509F0447fe68329D6898D9FC3922C1e4A0";
+  "0xed8fcd05eEf271309ce1bA84E214B7C36880bdc1"; // token
+
+  
+export const royalContractAddress =
+  "0xC42689A14fc2b0ce170f709977bA32cDBcCC04D5"; // nft contract
+export const royalStakingContractAddress =
+  "0x67ACd890A641FAAc008e423C820Fe22b5a333263"; // stake contract
+
+  
+export const atlantisContractAddress =
+  "0xb60a808D9149B5a7546bD9e911F67B28a38e6388"; // nft contract
+export const atlantisStakingContractAddress =
+  "0x5f38277091974Eba32BC37fb13718c5cF71eBc58"; // stake contract
+
+  
+export const parameshContractAddress =
+  "0x6A7999b4c396367e4100aeE3797f7fe671407AeE"; // nft contract
+export const parameshStakingContractAddress =
+  "0xF155A86cD794126a05360298f8675830E5add2c6"; // stake contract

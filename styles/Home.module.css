@@ -32,7 +32,7 @@
 }
 
 .nftBoxGrid {
-  width: 1200px;
+  width: 100%;
   max-width: 95vw;
   display: flex;
   flex-direction: row;
@@ -52,24 +52,29 @@
 }
 
 .optionSelectBox {
-  border-radius: 16px;
   border: 1px solid #ccc;
-  width: 48%;
   min-height: 200px;
   height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-left: 12px;
-  padding-right: 12px;
+  padding: 12px;
   cursor: pointer;
+  /* max-width: calc(33.33% - 20px); Lebar kotak adalah 1/3 dari lebar container dengan jarak 20px */
+  margin-bottom: 20px; /* Memberikan jarak bawah antara kotak-kotak */
 }
 
 .selectBoxTitle {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   margin-top: 8px;
   margin-bottom: 8px;
+}
+
+.buttonStyles{
+  background-color: blueviolet;
+  color: #ccc;
+  cursor: pointer;
 }
 
 .selectBoxDescription {

@@ -74,6 +74,48 @@ const Home: NextPage = () => {
           </p> */}
         </div>
 
+        {/* KOTAK 4 */}
+        <div
+          className={styles.optionSelectBox}
+          role="button"
+          onClick={() => router.push("/residence-stake")}
+        >
+          {/* Staking an NFT */}
+          <Image src="/icons/4.png" alt="token" width={260} height={260} />
+          {/* <h3 className={styles.selectBoxTitle}>Paramesh NFT Stake</h3> */}
+          <br />
+          <button
+           className={styles.buttonStyles}
+          >
+            Check Now
+          </button>
+          {/* <p className={styles.selectBoxDescription}>
+            Use your GACUAN NFT for <b>Stake</b> <br />
+            You will earn $PERCENT tokens from the <b>PERCENTAGE</b> staking contract.
+          </p> */}
+        </div>
+
+        {/* KOTAK 5 */}
+        <div
+          className={styles.optionSelectBox}
+          role="button"
+          onClick={() => router.push("/universe-stake")}
+        >
+          {/* Staking an NFT */}
+          <Image src="/icons/5.png" alt="token" width={260} height={260} />
+          {/* <h3 className={styles.selectBoxTitle}>Paramesh NFT Stake</h3> */}
+          <br />
+          <button
+           className={styles.buttonStyles}
+          >
+            Check Now
+          </button>
+          {/* <p className={styles.selectBoxDescription}>
+            Use your GACUAN NFT for <b>Stake</b> <br />
+            You will earn $PERCENT tokens from the <b>PERCENTAGE</b> staking contract.
+          </p> */}
+        </div>
+
       </div>
     </div>
   );

@@ -21,12 +21,12 @@ export const parameshStakingContractAddress =
 
   
 export const residenceContractAddress =
-  "0x6A7999b4c396367e4100aeE3797f7fe671407AeE"; // nft contract blm
+  "0x0C8A23E74c3Cb3C85A0716DF29185F3574058498"; // nft contract
 export const residenceStakingContractAddress =
   "0xA7EedB3997A063aF763F47a48855503C616D8ab0"; // stake contract
 
   
 export const universeContractAddress =
-  "0x6A7999b4c396367e4100aeE3797f7fe671407AeE"; // nft contract blm
+  "0x704BB76e935C0043a0A91a7Cc6aDbbfCCB4CE538"; // nft contract
 export const universeStakingContractAddress =
   "0x8376B8Bc0F4dAd2709c674b4E5bb7BB1877db11f"; // stake contract

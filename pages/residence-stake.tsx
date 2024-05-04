@@ -12,7 +12,7 @@ import {
   import { BigNumber, ethers } from "ethers";
   import type { NextPage } from "next";
   import { useEffect, useState } from "react";
-  import NFTCard from "../components/AtlantisNFTCard";
+  import NFTCard from "../components/ResidenceNFTCard";
   import {
     residenceContractAddress,
     residenceStakingContractAddress,

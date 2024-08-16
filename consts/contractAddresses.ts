@@ -27,6 +27,6 @@ export const residenceStakingContractAddress =
 
   
 export const universeContractAddress =
-  "0x704BB76e935C0043a0A91a7Cc6aDbbfCCB4CE538"; // nft contract
+  "0xAB3c186aB572953a76ED8daEE611C2730B86be2c"; // nft contract
 export const universeStakingContractAddress =
-  "0x8376B8Bc0F4dAd2709c674b4E5bb7BB1877db11f"; // stake contract
+  "0xA2dA1b1281CA0486B447b2774a7a4ff80aF2B623"; // stake contract
